@@ -5,9 +5,8 @@
 3/ Không gây war
 4/ Không chà đạp, chửi bới các thành viên khác
 5/ Không đăng bài có nội dung người lớn
-6/ Không đăng các bài viết không liên quan đến Minecraft (Các game gần giống như Pixel Gun, Exploration Lite,… được cho phép)
-7/ Không được quảng cáo channel Youtube, chỉ được share video về minecraft
-8/ Không đăng bài nhàm nhằm câu like, wiew 
+6/ Không đăng các bài viết không liên quan đến Minecraft (Các game gần giống như Pixel Gun, Exploration Lite,… được cho phép, và 1 số bài meme ngoài lề nếu thấy hay thì t cho pass, ko xóa)
+8/ Không đăng bài nhàm nhằm câu like, wiew (Trừ khi nó dành cho mục đích marketing) :) 
 9/ Không spam comment, bài viết
 10/ Không được comment dài hơn 100 dòng
 11/ Không block Quản Trị Viên
@@ -19,5 +18,5 @@
 17.1/ Tuyệt đối không đăng ảnh mạng và tự nhận là của mình
 17.2/ Người tố cáo những người vi phạm luật 16.1 phải có bằng chứng
 18/ Có thể lấy ảnh trên nhóm nhưng phải xin tác giả hoặc để nguồn
-19/ Không spam comment, bài viết
-20/ Việc tạo event trong group phải qua sự cho phép của Quản Trị Viên Phan
+20/ Việc tạo event trong group phải qua sự cho phép của Quản Trị Viên
+21/ Livestream nên báo trc Admin tại trang Minecraft của Mọi người
